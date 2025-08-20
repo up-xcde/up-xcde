@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+A doctoral student at Huazhong University of Science and Technology in Wuhan, China, specializing in robotics.
 <!--
 **up-xcde/up-xcde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
